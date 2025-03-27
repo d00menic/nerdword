@@ -1,6 +1,9 @@
 // Word lists organized by week
 export const wordLists: Record<string, string[]> = {
   allWeeks: [], // This will be populated with all words
+  week5: [
+    'chocolate', 'umbrella', 'telescope', 'adventure', 'pineapple',
+    'computer', 'keyboard', 'calendar', 'dinosaur', 'universe'
   week4: [
     'chocolate', 'umbrella', 'telescope', 'adventure', 'pineapple',
     'computer', 'keyboard', 'calendar', 'dinosaur', 'universe'
